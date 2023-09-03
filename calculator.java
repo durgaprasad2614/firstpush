@@ -10,7 +10,7 @@ class Calculator{
         int y=sc.nextInt();
         System.out.println("enter 1 for-addition,2-subtracton,3-multiplication,4-divison,5-to get remainder");
         int k=sc.nextInt();
-         
+         //comment
         switch(k){
             case 1:
             System.out.println( x+"+"+y+"="+(x+y));
